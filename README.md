@@ -1,1 +1,13 @@
 # two_way
+attach(two_way)
+str(two_way)
+summary(two_way)
+hist(StressReduction)
+boxplot(StressReduction~Treatment+Age)
+shapiro.test(StressReduction)
+qqnorm(StressReduction)
+anova (lm(StressReduction~Treatment+Age))
+anova (lm(StressReduction~Treatment*Age))
+interaction.plot(Treatment, Age, StressReduction)
+pairwise.t.test(StressReduction,Treatment, p.adj = 'none')
+pairwise.t.test(StressReduction,Age, p.adj = 'none')
