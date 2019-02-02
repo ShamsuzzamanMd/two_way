@@ -1,0 +1,24 @@
+1 Executive Summary
+This data set (two-way) is a hypothetical sample of 27 participants who have got three types
+of treatments (mental, physical and medicinal) towards stress ruction. The participants
+were categorised into three groups as young, mid and old based on their age. Findings from
+the histogram, boxplot, q-q plot, and shapiro test, we can see that the data set is normally
+distributed having no extreme value or outliers. I have my statistical hypothesis to support
+the analysis of the data set, the null hypothesis iss H0 : mental = physical = medical and
+Ha : at least one of them is dierent. The Anova test reveals the outcome through the
+P value (less than 0.05) which rejects the null hypothesis and indicate that there are
+dierences in eects levels. It also indicates that there is no relation between the factors
+ages and treatment. The interaction plot conclude that the eectiveness of the treatments
+was more on young people rather than mid and old. On the other hand, mental treatment
+was more eective than physical and medical. At the same time the Pairwise tests reveal
+that there is no signicant pairwise dierences between the treatment groups and on the
+other hand the comparisons between age groups are signicant. I have gone through the
+data set and found replicated values which are not valid for Friedman test. That is why the
+replicated data have been analysed through their mean value. Finally, from the P values of
+the Friedman test, I can see that these are almost close to eect level 0.05. But according
+to the statistical methods, I am accepting the P values (0.04979) as less than 0.05. So,
+these values indicate that there are no dierence in age eect with treatment as same as
+for methods. On the other hand, the MS.test supports the statement from Friedman test
+outcomes. Through the statistical analysis, it has been concluded that the eectiveness of
+the treatments are more on young people rather than mid and old. On the other hand,
+mental treatment is more eective than physical and medical.
